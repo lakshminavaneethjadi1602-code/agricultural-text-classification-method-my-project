@@ -1,0 +1,28 @@
+Agricultural Text Classification Method Based on Dynamic Fusion of Multiple Features
+
+IEEE Transaction on Machine Learning,Volune:11,Issue Date:06.March.2023
+
+Attention mechanism, bi-directional long short term memory network, convolution neural
+network, dynamic fusion of multivariate features, numerical value features.
+
+Agricultural_Text_Classification_Method
+
+
+agricultural_text_classification_method
+
+
+
+predict_text_classification
+
+
+
+Fid
+State_Name	
+District_Name	
+Crop_Year	
+Season		
+Area	
+Production
+Prediction
+
+Multi-scale convolution kernel convolutional neural network (Mul-CNN)
